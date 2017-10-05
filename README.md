@@ -1,6 +1,6 @@
 #Star Wars Repo
 
-![./exploracao.png](Tropa de Exploração)
+![Tropa de Exploração](exploracao.png)
 
 Sim, é um repositório de Star Wars com uma imagem do brasão da Tropa de Exploração do anime Attack on Titan. E sim, não sei e estou com preguiça de procurar o nome original japonês.
 
